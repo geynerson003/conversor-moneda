@@ -56,7 +56,7 @@ En este menú, el usuario puede seleccionar la opción para realizar una convers
 - Gson (para el manejo de JSON)
 - HttpClient (para realizar peticiones HTTP)
 # Autor
-Este proyecto fue desarrollado por Tu GEYNERSON LEAL GUZMAN.
+Este proyecto fue desarrollado por: GEYNERSON LEAL GUZMAN.
 
 # Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna mejora, por favor, abre un issue o envía un pull request.
